@@ -108,14 +108,15 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:033475_0000_0FF67CC81D4174C8"/>
-            <pb facs="tcp:033475_0001_0FF6850075FE1CF0" rendition="simple:additions"/>
+            <pb facs="unknown:033475_0000_0FF67CC81D4174C8"/>
+            <pb facs="unknown:033475_0001_0FF6850075FE1CF0"
+                rendition="simple:additions"/>
             <p>FEMALE PATRIOTISM OR THE DEATH OF JOAN D'ARC: AN HISTORIC PLAY, IN V. ACTS, By JOHN BURK—</p>
             <p>Author of BUNKER HILL—PRINCE OF SUSA, and other Dramatic Picces.</p>
             <p>NEW-YORK: Printed by ROBERT M. HURTIN, at the LITERARY PRINTING-OFFICE, No. 29, GOLD-STREET. 1798.</p>
          </div>
          <div type="dramatis_personae">
-            <pb facs="tcp:033475_0002_0FF68503F6874638"/>
+            <pb facs="unknown:033475_0002_0FF68503F6874638"/>
             <head>Dramatis Perſonae.</head>
             <list>
                <head>FRENCH.</head>
@@ -216,7 +217,7 @@
       </front>
       <body>
          <div type="play">
-            <pb facs="tcp:033475_0003_0FF68509D2CAC2B0"/>
+            <pb facs="unknown:033475_0003_0FF68509D2CAC2B0"/>
             <head>FEMALE PATRIOTISM, &amp;c.</head>
             <div n="1" type="act">
                <head>ACT I.</head>
@@ -327,7 +328,7 @@
                            <desc>•</desc>
                         </gap>ebellion</l>
                      <l>
-                        <pb n="4" facs="tcp:033475_0004_0FF6850B9E0ED300"/>Were now to hear with me, theſe feeling words,</l>
+                        <pb n="4" facs="unknown:033475_0004_0FF6850B9E0ED300"/>Were now to hear with me, theſe feeling words,</l>
                      <l>That, like me, they might burn with indignation.</l>
                   </sp>
                   <sp>
@@ -396,7 +397,7 @@
                      <l>And keep thy colour?</l>
                   </sp>
                   <sp>
-                     <pb n="5" facs="tcp:033475_0005_0FF67CCA6D550E88"/>
+                     <pb n="5" facs="unknown:033475_0005_0FF67CCA6D550E88"/>
                      <speaker>Mary.</speaker>
                      <l>I have no grief<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
@@ -529,7 +530,7 @@
                            <desc>••</desc>
                         </gap>ny feel; the wind thou tempereſt,</l>
                      <l>
-                        <pb n="6" facs="tcp:033475_0006_0FF6850D9EAD3DB0"/>And by thy raviſhing converſe doſt enchant</l>
+                        <pb n="6" facs="unknown:033475_0006_0FF6850D9EAD3DB0"/>And by thy raviſhing converſe doſt enchant</l>
                      <l>As by a powerful ſpell<g ref="char:punc">▪</g> 
                         <hi>adverſity.</hi>
                      </l>
@@ -619,7 +620,7 @@
                      <l>Is held in cloſe blockade.</l>
                   </sp>
                   <sp>
-                     <pb n="7" facs="tcp:033475_0007_0FF68511DF389D60"/>
+                     <pb n="7" facs="unknown:033475_0007_0FF68511DF389D60"/>
                      <speaker>Chaſt.</speaker>
                      <l>My lord I know it;</l>
                      <l>But yet to you and all this Spartan band.</l>
@@ -714,7 +715,7 @@
                         </gap>ſt to try her ſkill,</l>
                      <l>Reignier, ſtand thou as Dauphin in my place:</l>
                      <l>
-                        <pb n="8" facs="tcp:033475_0008_0FF68515DA1C3C10"/>Queſtion her proudly, let thy looks be ſtern,</l>
+                        <pb n="8" facs="unknown:033475_0008_0FF68515DA1C3C10"/>Queſtion her proudly, let thy looks be ſtern,</l>
                      <l>By this means ſhall we find what ſkill ſhe hath.</l>
                   </sp>
                   <stage>
@@ -826,7 +827,7 @@
                            <desc>••</desc>
                         </gap>,</l>
                      <l>
-                        <pb n="9" facs="tcp:033475_0009_0FF68522BA8B78F8"/>Who, in defiance of the wintry blaſts,</l>
+                        <pb n="9" facs="unknown:033475_0009_0FF68522BA8B78F8"/>Who, in defiance of the wintry blaſts,</l>
                      <l>The b<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>rning ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -931,7 +932,7 @@
                      <l>And France, now let an univerſal ſmile</l>
                      <l>Like a bright ſunbeam, ſettle on thy face;</l>
                      <l>
-                        <pb n="10" facs="tcp:033475_0010_0FF67CCE05338718"/>For now <hi>her</hi> glories end; and <hi>thine</hi> commence.</l>
+                        <pb n="10" facs="unknown:033475_0010_0FF67CCE05338718"/>For now <hi>her</hi> glories end; and <hi>thine</hi> commence.</l>
                      <l>Come, let's away, and to the anxious troops</l>
                      <l>Unfold my ſacred miſſion, that their ſouls</l>
                      <l>May catch the glorious impulſe.—
@@ -1128,7 +1129,7 @@ My Lord—Has Chaſtel yet returned?</l>
                            <desc>••••</desc>
                         </gap>ce next to famine,</l>
                      <l>
-                        <pb n="11" facs="tcp:033475_0011_0FF68528B8E44520"/>To break out in ſuch loud and boiſterous joy!</l>
+                        <pb n="11" facs="unknown:033475_0011_0FF68528B8E44520"/>To break out in ſuch loud and boiſterous joy!</l>
                   </sp>
                   <sp>
                      <speaker>Talbot.</speaker>
@@ -1203,7 +1204,7 @@ My Lord—Has Chaſtel yet returned?</l>
                      <speaker>Chaſtel.</speaker>
                      <l>My name is Chaſtel, and my country France</l>
                      <l>
-                        <pb n="12" facs="tcp:033475_0012_0FF6852AE4D6CD28"/>Which I do love as dearly as my ſoul,</l>
+                        <pb n="12" facs="unknown:033475_0012_0FF6852AE4D6CD28"/>Which I do love as dearly as my ſoul,</l>
                      <l>And much as I deteſt you, Britiſh wolves,</l>
                      <l>Who with inſatiate fury prey on it:</l>
                      <l>My principles are, love of liberty,</l>
@@ -1263,7 +1264,7 @@ My Lord—Has Chaſtel yet returned?</l>
                      <l>By force of arms, pulling juſtice down.</l>
                      <l>Now to my miſſion.—Quick convene your hoſt,</l>
                      <l>
-                        <pb n="13" facs="tcp:033475_0013_0FF68531A254E8F0"/>And tell them, that the proud avenging heavens</l>
+                        <pb n="13" facs="unknown:033475_0013_0FF68531A254E8F0"/>And tell them, that the proud avenging heavens</l>
                      <l>Whoſe vengeance, by a thouſand bloody deeds</l>
                      <l>Of murder, rapine, ſacrilege, and luſt</l>
                      <l>They've rous'd to vengeance—to the Dauphin's camp</l>
@@ -1349,7 +1350,7 @@ My Lord—Has Chaſtel yet returned?</l>
                      <l>From the deſponding Atheiſt to the Sage,</l>
                      <l>Whoſe reaſoning ſoul demonſtrates a firſt cauſe</l>
                      <l>
-                        <pb n="14" facs="tcp:033475_0014_0FF68535DDC239A0"/>Now on thy ſervant Joan thy glories ſhed,</l>
+                        <pb n="14" facs="unknown:033475_0014_0FF68535DDC239A0"/>Now on thy ſervant Joan thy glories ſhed,</l>
                      <l>Give to this Spear the terrors of thy bolt,</l>
                      <l>When red with all thy wrath it hiſſing flies</l>
                      <l>And rives the mountain oak—Give me to rouſe</l>
@@ -1413,7 +1414,7 @@ My Lord—Has Chaſtel yet returned?</l>
                      <l>To end our fierce contention by the ſword:</l>
                      <l>Thrice holy Cave—where e'er now Hermits paſs'd</l>
                      <l>
-                        <pb n="15" facs="tcp:033475_0015_0FF68537A08CEE78"/>In Patriarchal innocence their lives.</l>
+                        <pb n="15" facs="unknown:033475_0015_0FF68537A08CEE78"/>In Patriarchal innocence their lives.</l>
                      <l>Now, for the firſt time, ſhall thy holy ways</l>
                      <l>Be ſtain'd with blood; now ſhall the ſounds of war</l>
                      <l>And accents of defiance ſtrike thy walls,</l>
@@ -1493,7 +1494,7 @@ My Lord—Has Chaſtel yet returned?</l>
                         </gap>e and fight him afterward.</l>
                   </sp>
                   <sp>
-                     <pb n="16" facs="tcp:033475_0016_0FF6853DDB5F81E0"/>
+                     <pb n="16" facs="unknown:033475_0016_0FF6853DDB5F81E0"/>
                      <speaker>Chaſt.</speaker>
                      <l>Thou glorious female</l>
                      <l>Haſt thou no fears upon thine account,</l>
@@ -1584,7 +1585,7 @@ My Lord—Has Chaſtel yet returned?</l>
                      <speaker>Chaſt.</speaker>
                      <l>Generous noble frankneſs,</l>
                      <l>
-                        <pb n="17" facs="tcp:033475_0017_0FF68544C4BCEFB8"/>In this confeſſion as in all things elſe</l>
+                        <pb n="17" facs="unknown:033475_0017_0FF68544C4BCEFB8"/>In this confeſſion as in all things elſe</l>
                      <l>Thou keep'ſt thy greatneſs up, and like an angel</l>
                      <l>So tempereſt majeſty with condeſcenſion</l>
                      <l>That both are viſible tho' both diſtinct;</l>
@@ -1654,7 +1655,7 @@ My Lord—Has Chaſtel yet returned?</l>
                   <stage>Violent thunder and lightening, the conſecrated banner is ſtruck from the hand of Pucella to the ground—The ſoldiers are ſeiz'd with panic—Thunder continues, Pu<g ref="char:EOLhyphen"/>cella preſerves all her fortitude ſurveying their fear with contempt and indignation.</stage>
                   <stage>Chaſtel holds his ſhield over her head.</stage>
                   <sp>
-                     <pb n="18" facs="tcp:033475_0018_0FF7287460BDBAA8"/>
+                     <pb n="18" facs="unknown:033475_0018_0FF7287460BDBAA8"/>
                      <speaker>Dauphin.</speaker>
                      <p>I fear that heaven is againſt our purpoſe.</p>
                   </sp>
@@ -1757,7 +1758,7 @@ My Lord—Has Chaſtel yet returned?</l>
                      <hi>Enter</hi> French ſoldiers purſuing them.</stage>
                   <stage>Exeunt.</stage>
                   <stage>
-                     <pb n="19" facs="tcp:033475_0019_0FF728806EC724B8"/>
+                     <pb n="19" facs="unknown:033475_0019_0FF728806EC724B8"/>
                      <hi>Enter</hi> Chaſtel and Pucella, driving before them Talbot and Bedfo<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>d.</stage>
@@ -1867,7 +1868,7 @@ My Lord—Has Chaſtel yet returned?</l>
                      <l>Within the boſom of this Amazon:</l>
                      <l>No ſingle ſoul hath merit half enough</l>
                      <l>
-                        <pb n="20" facs="tcp:033475_0020_0FF72882FB38DF98"/>To match her high perfections.</l>
+                        <pb n="20" facs="unknown:033475_0020_0FF72882FB38DF98"/>To match her high perfections.</l>
                   </sp>
                   <sp>
                      <speaker>Dauph.</speaker>
@@ -1978,7 +1979,7 @@ My Lord—Has Chaſtel yet returned?</l>
                         </gap> is of heaven:</l>
                      <l>But ſhe no ſpirit hath but her high ſoul</l>
                      <l>
-                        <pb n="21" facs="tcp:033475_0021_0FF7288AA1979C00"/>To aid her projects.</l>
+                        <pb n="21" facs="unknown:033475_0021_0FF7288AA1979C00"/>To aid her projects.</l>
                   </sp>
                   <sp>
                      <speaker>Bedford.</speaker>
@@ -2132,7 +2133,7 @@ My Lord—Has Chaſtel yet returned?</l>
                            <desc>•••</desc>
                         </gap>es her awful ſword.</l>
                      <l>
-                        <pb n="22" facs="tcp:033475_0022_0FF72891498CB3C0"/>From her proud head ſhe takes the ſparkling helm</l>
+                        <pb n="22" facs="unknown:033475_0022_0FF72891498CB3C0"/>From her proud head ſhe takes the ſparkling helm</l>
                      <l>To wipe her glowing forehead: all the while</l>
                      <l>Heedleſs of danger<g ref="char:punc">▪</g> as if the enemy</l>
                      <l>Had not been ro<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -2218,7 +2219,7 @@ My Lord—Has Chaſtel yet returned?</l>
                         </gap> dark palefac'd conſpirators did give</l>
                      <l>The bowl of human blood, and bad them drink,</l>
                      <l>
-                        <pb n="23" facs="tcp:033475_0023_0FF72899EFF83A48"/>Put in my hand thy parricidal dagger:</l>
+                        <pb n="23" facs="unknown:033475_0023_0FF72899EFF83A48"/>Put in my hand thy parricidal dagger:</l>
                      <l>I muſt do ſervice for my Engliſh friends:</l>
                      <l>If I take off this fierce heroic maid,</l>
                      <l>Whoſe proweſs ſo deſtroys and withers us,</l>
@@ -2271,7 +2272,7 @@ My Lord—Has Chaſtel yet returned?</l>
                      <l>But when a thouſand ſages join their powers</l>
                      <l>To pour the blaze of reaſon on the mind,</l>
                      <l>
-                        <pb n="24" facs="tcp:033475_0024_0FF728A4CF1C2618"/>The race of kings ſhall be but <hi>ſimple</hi> men;</l>
+                        <pb n="24" facs="unknown:033475_0024_0FF728A4CF1C2618"/>The race of kings ſhall be but <hi>ſimple</hi> men;</l>
                      <l>The <hi>human race</hi> becomes a race of kings;</l>
                      <l>This may be call'd the golden age indeed.
 <stage>Shout.</stage>
@@ -2324,7 +2325,7 @@ My miſſion's done!</l>
                      <l>Dear ſcenes of childhood I ſhall join you ſoon,</l>
                      <l>Soon ſhall I wind within your mazy groves,</l>
                      <l>
-                        <pb n="25" facs="tcp:033475_0025_0FF728AD5213F9B8"/>Soon ſhall I mix among your a<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <pb n="25" facs="unknown:033475_0025_0FF728AD5213F9B8"/>Soon ſhall I mix among your a<gap reason="illegible" resp="#PDCC" extent="3 letters">
                            <desc>•••</desc>
                         </gap>ſs ſwains,</l>
                      <l>The d<gap reason="illegible" resp="#PDCC" extent="3 letters">
@@ -2415,7 +2416,7 @@ My miſſion's done!</l>
                            <desc>•</desc>
                         </gap>e benign</l>
                      <l>
-                        <pb n="26" facs="tcp:033475_0026_0FF728B27AB849A0"/>And drink the ſeraph muſic of thy tongue,</l>
+                        <pb n="26" facs="unknown:033475_0026_0FF728B27AB849A0"/>And drink the ſeraph muſic of thy tongue,</l>
                      <l>With tranſport will my fix'd uplifted eyes</l>
                      <l>With hermit zeal give praiſes to the ſkies,</l>
                      <l>That they have ta'en me from the foul intrigues</l>
@@ -2510,7 +2511,7 @@ What Chaſtel <gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>〈◊〉</desc>
                         </gap> fight.</l>
                      <stage>
-                        <pb n="27" facs="tcp:033475_0027_0FF728B9F550AA98"/>
+                        <pb n="27" facs="unknown:033475_0027_0FF728B9F550AA98"/>
                         <hi>Enter</hi> Chaſtel.</stage>
                      <l>What would'ſt thou have—By heaven 'tis Talbot's ſelf:</l>
                      <l>Thou'r<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -2604,7 +2605,7 @@ What Chaſtel <gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>he deed?</l>
                      <l>
-                        <pb n="28" facs="tcp:033475_0028_0FF728C0B6FD7808"/>Haſt thou devis'd the motives and the means</l>
+                        <pb n="28" facs="unknown:033475_0028_0FF728C0B6FD7808"/>Haſt thou devis'd the motives and the means</l>
                      <l>Of this procedure?</l>
                   </sp>
                   <sp>
@@ -2669,7 +2670,7 @@ What Chaſtel <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <l>That we may ſleep in ſafety.</l>
                   </sp>
                   <sp>
-                     <pb n="29" facs="tcp:033475_0029_0FF728C776DB7CD0"/>
+                     <pb n="29" facs="unknown:033475_0029_0FF728C776DB7CD0"/>
                      <speaker>Beauvais.</speaker>
                      <l>When time is older by an hour my lord</l>
                      <l>Believe it done.
@@ -2754,7 +2755,7 @@ What Chaſtel <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <l>His tongue refuſing to diſcharge its functions,</l>
                      <l>He beckon'd with his ſword to follow him;</l>
                      <l>
-                        <pb n="30" facs="tcp:033475_0030_0FF67CE5D26B6C70"/>His eye did like an angry Meteor burn,</l>
+                        <pb n="30" facs="unknown:033475_0030_0FF67CE5D26B6C70"/>His eye did like an angry Meteor burn,</l>
                      <l>And on his brow grief and extremeſt rage</l>
                      <l>Sat equal match'd. Cover'd with duſt and blood</l>
                      <l>He urg'd th' purſuit, like to a furious hunter</l>
@@ -2814,7 +2815,7 @@ What Chaſtel <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <l>Again this corſlet,</l>
                   <l>'Gainſt which my heart did heave as if t'would burſt</l>
                   <l>
-                     <pb n="31" facs="tcp:033475_0031_0FF728D046A5A900"/>The claſps aſunder: on my breaſt ſhall ſhine,</l>
+                     <pb n="31" facs="unknown:033475_0031_0FF728D046A5A900"/>The claſps aſunder: on my breaſt ſhall ſhine,</l>
                   <l>And b<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>a<gap reason="illegible" resp="#PDCC" extent="2 letters">
@@ -2883,7 +2884,7 @@ What Chaſtel <gap reason="illegible" resp="#PDCC" extent="1 letter">
                         </gap>ſhes to the priſon windows and wrenches by force an iron bar—b<gap reason="illegible" resp="#PDCC" extent="2 letters">
                            <desc>••</desc>
                         </gap>k<g ref="char:punc">▪</g> mortar and ſplinters of wood follow— Beauvais and ſoldiers retire with precipitation—goaler falls
-<pb n="32" facs="tcp:033475_0032_0FF728D9D6AF5B98"/>
+<pb n="32" facs="unknown:033475_0032_0FF728D9D6AF5B98"/>
 on his knees—Pucella holds the bar <hi>lifted over him</hi> in the attitude of ſtriking.</stage>
                      <l>Riſe wretch,
 <stage>To the goaler.</stage>
@@ -2949,7 +2950,7 @@ on his knees—Pucella holds the bar <hi>lifted over him</hi> in the attitude of
                            <desc>•</desc>
                         </gap> not a cry tho' the fierce dogs</l>
                      <l>
-                        <pb n="33" facs="tcp:033475_0033_0FF728E273A7E080"/>Rend him to pieces; the leopard's fierceneſs,</l>
+                        <pb n="33" facs="unknown:033475_0033_0FF728E273A7E080"/>Rend him to pieces; the leopard's fierceneſs,</l>
                      <l>And all the horrid properties of rage</l>
                      <l>Collected from the boſoms of wild beaſts:</l>
                      <l>Encaſe my heart in ſteel, and o'er my face</l>
@@ -3054,7 +3055,7 @@ Thou Joa<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>〈◊〉</desc>
                         </gap> France's much as mine,</l>
                      <l>
-                        <pb n="34" facs="tcp:033475_0034_0FF728E69CE6AE80"/>I rather wonder that we do outlive</l>
+                        <pb n="34" facs="unknown:033475_0034_0FF728E69CE6AE80"/>I rather wonder that we do outlive</l>
                      <l>The death of all our flattering proſpects:</l>
                      <l>We ſee the glorious temple of our rights</l>
                      <l>Whoſe ſpires encircled by the ſun gilt clouds</l>
@@ -3219,7 +3220,7 @@ Thou Joa<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <speaker>Chaſtel.</speaker>
                      <l>And why did not your royalty diſdain</l>
                      <l>
-                        <pb n="35" facs="tcp:033475_0035_0FF728EEB0568EB8"/>To be enthroned by this peaſant maid?</l>
+                        <pb n="35" facs="unknown:033475_0035_0FF728EEB0568EB8"/>To be enthroned by this peaſant maid?</l>
                      <l>Why not your royal head refuſe the crown</l>
                      <l>Your hand the ſceptre ſpurn when proferr'd by,</l>
                      <l>When like an angel in the robes of war,</l>
@@ -3308,7 +3309,7 @@ Thou Joa<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <l>Take him away—</l>
                      <l>Are you all leagued againſt me—Go, Reignier,</l>
                      <l>
-                        <pb n="36" facs="tcp:033475_0036_0FF67DD8359A4658"/>Summon my guard, give the wide camp alarm;</l>
+                        <pb n="36" facs="unknown:033475_0036_0FF67DD8359A4658"/>Summon my guard, give the wide camp alarm;</l>
                      <l>Te<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>l them<g ref="char:punc">▪</g> foul traitors meditate to kill</l>
@@ -3409,7 +3410,7 @@ Thou Joa<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <p>I wait to hear it.</p>
                   </sp>
                   <sp>
-                     <pb n="37" facs="tcp:033475_0037_0FF728F638E91B68"/>
+                     <pb n="37" facs="unknown:033475_0037_0FF728F638E91B68"/>
                      <speaker>Citizen.</speaker>
                      <l>Then ſummon all thy courage to thy aid,</l>
                      <l>Make hard thy heart by thinking on the worſt,</l>
@@ -3492,7 +3493,7 @@ Thou Joa<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <l>Like a pure ſpirit, 'rayed in robes of flame,</l>
                      <l>Seem'd ready to aſcend unto the ſkies;</l>
                      <l>
-                        <pb n="38" facs="tcp:033475_0038_0FF72900FA127098"/>Some gentle ſpirit ſat upon her face,</l>
+                        <pb n="38" facs="unknown:033475_0038_0FF72900FA127098"/>Some gentle ſpirit ſat upon her face,</l>
                      <l>Arming it with patience and benignant ſmiles,</l>
                      <l>For when the curling ſmoak and crackling flames</l>
                      <l>Puſh'd by the ingruous breeze, did backward roll,</l>
@@ -3567,7 +3568,7 @@ Thou Joa<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <l>Bedford and Beuvais ſhall ſhed tears of blood.</l>
                   </sp>
                   <sp>
-                     <pb n="39" facs="tcp:033475_0039_0FF7290516F0CD80"/>
+                     <pb n="39" facs="unknown:033475_0039_0FF7290516F0CD80"/>
                      <speaker>Citizen.</speaker>
                      <l>My Lord,</l>
                      <l>This ſealed paper did the holy maid</l>
@@ -3601,7 +3602,7 @@ To Chaſtel beloved by her above all things, next to her country and her God, Jo
                      <l>And by remorſe, 'tis ſaid, for murder'd Joan:</l>
                      <l>Diſeaſe and ſickneſs came ſo faſt upon him</l>
                      <l>
-                        <pb n="40" facs="tcp:033475_0040_0FF7290A30424B38"/>That he had hardly time to ſay farewell.</l>
+                        <pb n="40" facs="unknown:033475_0040_0FF7290A30424B38"/>That he had hardly time to ſay farewell.</l>
                   </sp>
                   <sp>
                      <speaker>Chaſtel.</speaker>
